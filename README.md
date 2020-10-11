@@ -10,7 +10,7 @@ Key Features
 5. Different Admin Panels for User, Hotel/Tour Owner, Admin
 
 Technologies Used
-1. PHP
+1. NodeJS
 2. MYSQL
 3. Javascript
 4. Ajax
